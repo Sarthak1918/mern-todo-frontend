@@ -56,3 +56,10 @@
 
     
 }
+
+
+@media only screen and (max-width:500px) {
+    .home-container .form-div{
+        width: 340px;
+    }
+}

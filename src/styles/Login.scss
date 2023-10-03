@@ -72,3 +72,19 @@
         }
     }
 }
+
+
+@media only screen and (max-width: 500px) {
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+    }
+   .container .form-container{
+        width: 300px;
+        height: 430px;
+        padding: 30px;
+        margin-top: 100px;
+    }
+    
+  }
